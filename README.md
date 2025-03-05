@@ -59,12 +59,72 @@ Y estos están comunicandose con MATRIZ DE REGISTROS
 ## 7. MICROCONTROLADOR
 
 >  🔑 Definición: El microcontrolador es una pequeña computadora usada para aplicaciones especificas, esto quiere decir que el microcontrolador 
-debe incluir ciertas unidades fundamentales y comunes en cualquier computadora, estas unidades son:
+debe incluir ciertas unidades fundamentales y comunes en cualquier computadora, estas unidades son:<br/> - CPU<br/> - MEMORIA RAM<br/> - MEMORIA ROM<br/> - ENTRADAS Y SALIDAS<br/>
 
-- CPU
-- MEMORIA RAM
-- MEMORIA ROM
-- ENTRADAS Y SALIDAS
+  ### 7.1 Clasificación
+  
+  Se clasifican de acuerdo a la longitud de palabra desde los: 
+  
+  - 4bits
+  - 8bits
+  - 16bits
+  - 32bits
+
+## 8. Diagrama lógico 
+
+- Un microcontrolador integra diferentes dispositivos en un solo circuito integrado
+- En este se encuentra la Unidad Central, Memoria ROM, Memoria RAM, los cuales estan en comunicación bidireccional con los circuitos de interfaz y a su vez con el exterior.
+
+  ### 8.1 Características
+
+  - Tamaño en memoria
+  - Tamaño de bus
+  - Módulos
+  - Familia
+  - Encapsulado
+
+## 9. Aplicaciones
+
+  - Robótica:
+    - Subsistemas específicos de control
+      - Extremidades
+      - Facciones del rostro
+      - Soportes prensiles
+
+  - Equipamiento informático:
+    - Impresoras
+    - Scanners
+    - Copiadoras
+    - Sistemas portátiles y autónomos
+      
+  - Sector automotriz:
+    - Control centralizado de puertas y ventanas
+    - Climatizadores
+    - Inyección
+    - Alarmas
+      
+  - Sector doméstico:
+    - Integrado en los sistemas de:
+      - Televisores
+      - Lavarropas
+      - Microondas
+      - Heladeras
+        
+  - Sector industrial:
+    - Controladores industriales
+    - Automatización
+
+## 10. Familias, gamas, modelos 
+
+| Fabricante |  Familia |
+|:----------:|:--------:|
+|  Motorola  | Frescale |
+|  Microchip |    PIC   |
+|   Hitachi  |    H8    |
+|    Atmel   |    AVR   |
+|    Texas   |   Texas  |
+|    Intel   |    MSC   |
+
 
 
 
