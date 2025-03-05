@@ -23,4 +23,4 @@ Y estos están comunicandose con MATRIZ DE REGISTROS
 
 ## 3. Funcionamiento de un microprocesador
 
-.{(https://github.com/HeisenDiaz/Apuntes-8-Feb-2025/blob/main/Screenshot%202025-03-04%20221551.png)}
+.{("C:\Users\eisen\OneDrive\Escritorio\U ECCI\3 SEMESTRE\MICROCONTROLADORES\APUNTES\8 FEB\Screenshot 2025-03-04 221551.png")}
