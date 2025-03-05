@@ -3,7 +3,7 @@
 - Es una máquina de estados de propósito general
 - Cuando diseñamos máquinas de estados siempre cumplen una función específica
 
-## 1. EVOLUCIÓN HISTÓRICA 
+## 1. Evolución histórica
 
 | Fecha |                           Evolución                           |
 |:-----:|:-------------------------------------------------------------:|
@@ -13,4 +13,4 @@
 |  1975 | Motorola lanza microprocesadores de bajo costo ($20 y 25 USD) |
 |  1976 | Surgen las primeras microcomputadoras                         |
 
-##Componentes de un Microprocesador
+## Componentes de un Microprocesador
