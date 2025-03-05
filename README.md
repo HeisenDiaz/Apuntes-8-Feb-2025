@@ -15,9 +15,12 @@
 
 ## 2. Componentes de un Microprocesador
 
-UC = Unidad de Control (PC)
+UC = Unidad de Control (PC = Contador de programa)
 
 ALU = Unidad aritmetico Logica (Tiene 2 entradas)
 
 Y estos están comunicandose con MATRIZ DE REGISTROS
 
+## 3. Funcionamiento de un microprocesador
+
+.{}
