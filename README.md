@@ -1,7 +1,6 @@
 # MICRO-PROCESADORES
 
-- Es una máquina de estados de propósito general
-- Cuando diseñamos máquinas de estados siempre cumplen una función específica
+- Es una máquina de estados de propósito general, cuando diseñamos máquinas de estados siempre cumplen una función específica
 
 ## 1. Evolución histórica
 
@@ -21,6 +20,10 @@ ALU = Unidad aritmetico Logica (Tiene 2 entradas)
 
 Y estos están comunicandose con MATRIZ DE REGISTROS
 
-## 3. Funcionamiento de un microprocesador
+## 3. Set de instrucciones
 
-(https://github.com/HeisenDiaz/Apuntes-8-Feb-2025/blob/main/Screenshot%202025-03-04%20221551.png)
+- CISC (Complex Instructions set computer) : >🔑
+
+- RISC (Reduced instruction set computer) 
+
+
