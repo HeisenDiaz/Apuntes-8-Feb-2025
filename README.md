@@ -22,7 +22,7 @@ Y estos están comunicandose con MATRIZ DE REGISTROS
 
 ## 3. Set de instrucciones
 
-- CISC (Complex Instructions set computer) : >🔑
+- CISC (Complex Instructions set computer) : '>'🔑
 
 - RISC (Reduced instruction set computer) 
 
