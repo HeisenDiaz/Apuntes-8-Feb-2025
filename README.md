@@ -13,4 +13,7 @@
 |  1975 | Motorola lanza microprocesadores de bajo costo ($20 y 25 USD) |
 |  1976 | Surgen las primeras microcomputadoras                         |
 
-## Componentes de un Microprocesador
+## 2. Componentes de un Microprocesador
+
+UC = Unidad de Control 
+ALU = Unidad aritmetico Logica
