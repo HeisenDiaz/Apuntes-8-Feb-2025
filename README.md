@@ -125,6 +125,12 @@ debe incluir ciertas unidades fundamentales y comunes en cualquier computadora, 
 |    Texas   |   Texas  |
 |    Intel   |    MSC   |
 
+## 11. Conclusiones
+
+- Aprendimos que los microprocesadores han avanzado desde el Intel 4004 hasta modelos más potentes y accesibles, impulsando la informática moderna
+- Identificamos los 2 tipos de arquitecturas usadas en los micro-procesadores
+- Analizamos la identificación de los microprocesadores de acuerdo a la cantidad de bits
+
 
 
 
