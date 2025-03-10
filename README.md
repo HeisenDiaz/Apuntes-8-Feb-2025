@@ -133,6 +133,9 @@ debe incluir ciertas unidades fundamentales y comunes en cualquier computadora, 
 
 
 
+## 12. Autores
 
+  ### Luis Fernando Pulido Salazar - 76257
+  ### Heisen Jawer Diaz Ascencio - 137604
       
 
